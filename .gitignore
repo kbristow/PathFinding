@@ -1,0 +1,9 @@
+UnityDemo/Temp/
+UnityDemo/Library/
+UnityDemo/Obj/
+UnityDemo/*.user
+UnityDemo/*.userprefs
+UnityDemo/*.DS_store
+PathFinding/bin/
+PathFinding/obj/
+PathFinding/*.cs.meta
